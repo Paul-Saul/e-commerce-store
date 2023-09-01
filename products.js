@@ -1,58 +1,58 @@
 module.exports = [
   {
-    name: "Basic Tee (Sienna)",
-    price: 3200,
+    name: "House Blend Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/basic-tee-sienna.jpeg",
+      "https://drive.google.com/file/d/1lXOZbpG1-PdzMbGogdE92Oc5hjac6VQA/view?usp=sharing",
   },
   {
-    name: "Basic Tee (Black)",
-    price: 3200,
+    name: "Light Roast Blend Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/basic-tee-black.jpeg",
+      "https://drive.google.com/file/d/1BjJywc6fIFjAsK6gBY7S5AW_qqtOA0B3/view?usp=sharing",
   },
   {
-    name: "Nomad Tumbler",
-    price: 3500,
+    name: "DECAF Roast Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/nomad-tumbler.jpeg",
+      "https://drive.google.com/file/d/1CmllJxkStzlI8iJp388x2ogXP9oJV4bJ/view?usp=sharing",
   },
   {
-    name: "Artwork Tee",
-    price: 3200,
+    name: "HALF CAFF Roast Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/artwork-tee.jpeg",
+      "https://drive.google.com/file/d/1tWCUyq3dyAVIeBE0dFGKKZ_ZlNGhVa1c/view?usp=sharing",
   },
   {
-    name: "Billfold Wallet",
-    price: 11800,
+    name: "Medium Blend Roast Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/billfold-wallet.jpeg",
+      "https://drive.google.com/file/d/1G6ss4Wgufas0F1GVvxuabb_4XmadTMNC/view?usp=sharing",
   },
   {
-    name: "Mini Sketchbook Set",
-    price: 2800,
+    name: "Colombia Medium Roast Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/mini-sketchbook-set.jpeg",
+      "https://drive.google.com/file/d/1bClqxp565zC6CcZcUrSsNePtrc6giThh/view?usp=sharing",
   },
   {
-    name: "Organize Set",
-    price: 14900,
+    name: "Espresso Blend Roast Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/organize-set.jpeg",
+      "https://drive.google.com/file/d/1DpPZKNgJGZGbW6MEbqP2Gx1xaoYSrXs7/view?usp=sharing",
   },
   {
-    name: "Machined Pen & Pencil",
-    price: 7000,
+    name: "Drak Blend Roast Coffee",
+    price: 1600,
     currency: "USD",
     image:
-      "https://epic-projects.nyc3.digitaloceanspaces.com/react-ecommerce/machine-pen-pencil-set.jpeg",
+      "https://drive.google.com/file/d/1bp7sA904TVtIIy_NpgBwuiPKpDVZqTpM/view?usp=sharing",
   },
 ];
