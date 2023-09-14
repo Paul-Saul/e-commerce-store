@@ -2,7 +2,7 @@
 
 # View It Live 
 
-https://e-commerce-store-sand.vercel.app/
+[(https://coffee-co-and-roastery.vercel.app/)]
 
 ## About The Project
 
