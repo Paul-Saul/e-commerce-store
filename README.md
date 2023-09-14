@@ -2,7 +2,7 @@
 
 # View It Live 
 
-[(https://coffee-co-and-roastery.vercel.app/)]
+https://coffee-co-and-roastery.vercel.app/
 
 ## About The Project
 
