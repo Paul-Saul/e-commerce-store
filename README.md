@@ -6,7 +6,7 @@ https://coffee-co-and-roastery.vercel.app/
 
 ## About The Project
 
-This is an e-commerce website built with the React framework, NEXT.JS, TailwindCSS and Stripe for checkout. My enjoyment of coffee inspired the idead to build this project.
+This is an e-commerce website built with the React framework, NEXT.JS, TailwindCSS and Stripe for checkout. My enjoyment of coffee inspired the idea to build this project.
 
 ## Features
 
